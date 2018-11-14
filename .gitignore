@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+#env
+*.env
+*.env.backup.*
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/coverage
+/.nyc_output
+
+# dist
+/dist

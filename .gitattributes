@@ -1,0 +1,5 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Eslint is set to ensure line endings are LF, so set this for js files
+*.js text eol=lf
